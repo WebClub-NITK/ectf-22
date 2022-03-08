@@ -22,3 +22,5 @@ Go to Ms.Jefferson
 First extract the given zip file. It will contain a binary file. Running <code>file</code> command on the given binary reveals that the given file is a firmware image. Now using <code>binwalk -e</code>, we can unpack the given firmware. 
 
 Hint tells us to go to Ms.Jefferson(jffs). There will be a <code>.jffs2</code> file in the extracted folder. Use tools like [jefferson](https://github.com/sviehb/jefferson) to extract this jffs file. Searching in the extracted file system will lead to a folder named sus which will contain the flag in a file named <code>flag.txt</code>.
+
+PS: Flag appearing on <code>strings</code> command was unintended.
