@@ -2,6 +2,6 @@
 
 - [Favourite Website](./Favourite-Website/)
 
-- [Hack The Auth](./Hack_The_Auth/)
+- [Hack The Auth](./Hack_the_Auth/)
 
-- [You're Too Blind To See](./Youre_too_blind_to_see/)
+- [You're Too Blind To See](./You're_too_blind_to_see/)
