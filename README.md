@@ -1,13 +1,13 @@
 # Engineer CTF 2022 Editorials
 
-- [Cryptography](./Crypto)
+- [Cryptography](./Crypto/)
 
-- [Forensics](./Forensics)
+- [Forensics](./Forensics/)
 
 - [OSINT](./OSINT/)
 
-- [Reverse Engineering](./RE-PWN)
+- [Reverse Engineering](./RE-pwn/)
 
 - [Web](./Web/)
 
-- [Misc](./Misc)
+- [Misc](./misc/)
