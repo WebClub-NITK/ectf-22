@@ -1,4 +1,4 @@
-# Engineer CTF 2022 editorials
+# Engineer CTF 2022 Editorials
 
 - [Cryptography](./Crypto)
 
