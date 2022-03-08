@@ -1,13 +1,13 @@
-# WEC CTF 2022 editorials
-
-- [Web](./Web/)
-
-- [OSINT](./OSINT/)
-
-- [Misc](./Misc)
+# Engineer CTF 2022 editorials
 
 - [Cryptography](./Crypto)
 
+- [Forensics](./Forensics)
+
+- [OSINT](./OSINT/)
+
 - [Reverse Engineering](./RE-PWN)
 
-- [Forensics](./Forensics)
+- [Web](./Web/)
+
+- [Misc](./Misc)
