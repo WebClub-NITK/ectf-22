@@ -1,6 +1,6 @@
 # Crytpography Challenges
 
-- [A Little XOR](./a_little_XOR/)
+- [A Little bit of XOR](./a_little_XOR/)
 
 - [Climb The Hill](./climb_the_hill/)
 
