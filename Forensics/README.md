@@ -8,7 +8,7 @@
 
 - [I See Numbers Already](./I_See_Numbers_Already/)
 
-- [I Can All This Day](./icandothisallday/)
+- [I Can Do This All Day](./icandothisallday/)
 
 - [Plain Sight](./Plain_Sight/)
 
