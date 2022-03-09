@@ -14,6 +14,6 @@
 
 - [Save Our Souls](./Save-Our-Souls/)
 
-- [The Cat Knows The Culprit](./The_Cat_knows_the_Culprit/)
+- [The Cat Knows The Culprit](./The_Cat_Knows_the_Culprit/)
 
 - [What's The Fact](./What's-The-Fact/)
